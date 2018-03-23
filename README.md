@@ -1,6 +1,8 @@
 # Movie-Trailer Website :star:
-## HOW you run the coe ?:point_down:
-it is a **Server side** code that interact with the data base that is been collected and show it in such a manner, that is been displayed in the **fresh_tomatoes.html** you can open it with any web browser such as _Chrome_ :running:
+it is a **Server side** code that interact with the data base that is been collected and show it in such a manner
+## How you run this code ?:point_down:
+first you need to open and run **entertainment_center.py** that will open the default web browser with this page loaded
+and you can run it directly by openeing **fresh_tomatoes.html** with any web browser you like such as ** _Chrome_** :running:
 
 ## the files contained :cyclone:
 ### entertainment_center.py 
