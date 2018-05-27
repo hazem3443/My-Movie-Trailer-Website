@@ -8,9 +8,7 @@ and you can run it directly by openeing **fresh_tomatoes.html** with any web bro
 ### entertainment_center.py 
 which contains the movies with all of the information that the code will use to show the movies
 and containig ***List*** of movies and initialize the 
-'''
-fresh_tomatoes.open_movies_page(movies)
-''' 
+'''fresh_tomatoes.open_movies_page(movies)''' 
 that will show the database on the webpage
 
 ### media.py
