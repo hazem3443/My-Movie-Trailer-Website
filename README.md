@@ -14,9 +14,7 @@ that will show the database on the webpage
 ### media.py
 this file contain the class that will construct the variables that will be used as input data to the webpage,
 first it containes the _**constructor**_ 
-'''
-lass Movie(object):
-    """Movie class for the data we are going to pass and
+"""class Movie(object):"""Movie class for the data we are going to pass and
     all of it's operations whick is openeing the url"""
 
     # constructor
