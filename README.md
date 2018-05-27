@@ -21,11 +21,11 @@ first it containes the _**constructor**_
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
 
-    # instance variables
-    self.title = movie_title  # movie name
-    self.storyline = movie_storyline  # movie description
-    self.poster_image_url = poster_image  # movie poster
-    self.trailer_youtube_url = trailer_youtube  # youtube trailer link
+        # instance variables
+        self.title = movie_title  # movie name
+        self.storyline = movie_storyline  # movie description
+        self.poster_image_url = poster_image  # movie poster
+        self.trailer_youtube_url = trailer_youtube  # youtube trailer link
 '''
 the it call a function from **webbrowser** python package to open the URL using the default browser
 
