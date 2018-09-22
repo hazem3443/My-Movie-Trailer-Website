@@ -8,14 +8,14 @@ and you can run it directly by openeing **fresh_tomatoes.html** with any web bro
 ### entertainment_center.py 
 which contains the movies with all of the information that the code will use to show the movies
 and containig ***List*** of movies and initialize the 
-'''fresh_tomatoes.open_movies_page(movies)''' 
+```fresh_tomatoes.open_movies_page(movies)``` 
 that will show the database on the webpage
 
 ### media.py
 this file contain the class that will construct the variables that will be used as input data to the webpage,
 first it containes the _**constructor**_ 
-'''class Movie(object):"""Movie class for the data we are going to pass and
-    all of it's operations whick is openeing the url"""
+```class Movie(object):```Movie class for the data we are going to pass and
+    all of it's operations whick is openeing the url"
 
     # constructor
     def __init__(self, movie_title, movie_storyline, poster_image,
@@ -29,7 +29,7 @@ first it containes the _**constructor**_
 '''
 the it call a function from **webbrowser** python package to open the URL using the default browser
 
-###fresh_tomatoes.py
+#fresh_tomatoes.py
 this file contain the code that blug the server side code to the .html file in the same directory 
 
 ## Follow me on **Facebook** :gift_heart:
