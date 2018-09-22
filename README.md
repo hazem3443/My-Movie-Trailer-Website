@@ -27,7 +27,7 @@ first it containes the _**constructor**_
         self.poster_image_url = poster_image  # movie poster
         self.trailer_youtube_url = trailer_youtube  # youtube trailer link
     ```
-the it call a function from **webbrowser** python package to open the URL using the default browser
+it calls a function from **webbrowser**(python package) to open the URL using the default browser
 
 ### fresh_tomatoes.py
 this file contain the code that blug the server side code to the .html file in the same directory 
