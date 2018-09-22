@@ -15,10 +15,10 @@ that will show the database on the webpage
 this file contain the class that will construct the variables that will be used as input data to the webpage,
 first it containes the _**constructor**_ 
 ```class Movie(object):```Movie class for the data we are going to pass and
-    all of it's operations whick is openeing the url"
-
+    all of it's operations whick is openeing the url
     # constructor
-    def __init__(self, movie_title, movie_storyline, poster_image,
+    ```
+        def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
 
         # instance variables
@@ -26,10 +26,10 @@ first it containes the _**constructor**_
         self.storyline = movie_storyline  # movie description
         self.poster_image_url = poster_image  # movie poster
         self.trailer_youtube_url = trailer_youtube  # youtube trailer link
-'''
+    ```
 the it call a function from **webbrowser** python package to open the URL using the default browser
 
-#fresh_tomatoes.py
+### fresh_tomatoes.py
 this file contain the code that blug the server side code to the .html file in the same directory 
 
 ## Follow me on **Facebook** :gift_heart:
